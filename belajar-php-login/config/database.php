@@ -1,6 +1,7 @@
 <?php
 
-function getDatabaseConfig(): array{
+function getDatabaseConfig(): array
+{
     return [
         "database" => [
             "test" => [
